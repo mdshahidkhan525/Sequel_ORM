@@ -1,0 +1,9 @@
+adapter: postgres
+host: localhost
+port: 5432
+encoding: unicode
+username: developer
+password: developer
+database: my_blog
+pool: 2
+# table name article

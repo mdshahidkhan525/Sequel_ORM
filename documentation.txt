@@ -1,0 +1,9 @@
+# title = "last"
+# body = "my last article"
+# # create query to add
+# my_article = DB["INSERT INTO article (title, body) VALUES (?, ?)", title, body]
+# my_article.insert()
+
+
+# db[:article].first
+# result = db["INSERT INTO article (title, body) VALUES (?, ?)", 'first blog', 'its my first blog']
